@@ -1,5 +1,5 @@
 # Mini Project 3 &mdash; Sensitivity & Scenario Analysis (Excel)
----
+
 ## Overview
 This mini project demonstrates **scenario and sensitivity analysis** using Excel's two-variable Data Table feature. The workbook evaluates how changes in two independent drivers affect a single outcome metric.
 
@@ -23,9 +23,9 @@ How sensitive is an outcome metric to changes in key drivers, both individually 
 ---
 
 ## Workbook Structure
-**Inputs**: Baseline value used as the anchor for scenario evaluation.
-**Model**: Single-output calculation applying independent drivers multiplicity.
-**Sensitivity_Table**: Two-variable Excel Data Table showing how the outcome metric changes across combinations of the two drivers.
+- **Inputs**: Baseline value used as the anchor for scenario evaluation.
+- **Model**: Single-output calculation applying independent drivers multiplicity.
+- **Sensitivity_Table**: Two-variable Excel Data Table showing how the outcome metric changes across combinations of the two drivers.
 
 ---
 

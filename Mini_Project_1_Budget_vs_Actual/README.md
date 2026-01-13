@@ -1,5 +1,5 @@
 # Mini Project 1 &mdash; Budget vs Actual Tracker (Excel)
----
+
 ## Overview
 This mini project demonstrates **core data analysis skills in Excel**, including structured data modeling, aggregation with PivotTables, KPI calculation, and variance analysis. The workbook is designed to support **monitoring performance against a reference baseline** and identifying areas that warrant further investigation.
 
@@ -24,14 +24,14 @@ How does observed performance compare to an expected baseline across categories 
 ---
 
 ## Workbook Structure
-**Inputs**: Centralized reporting controls (e.g., last closed month) used to standardize analysis views across summaries and PivotTables. *No forecasting logic is applied.*
-**Fact_Finance_Long**: Clean, long-format fact table containing simulated baseline and observed values, structured for aggregation and BI-style analysis.
-**Ref_Department**: Categorical dimension used for grouping and roll-ups (included for data-model realism).
-**Ref_GLAccount**: Category mapping supporting grouped variance analysis.
-**Ref_Date**: Calendar dimension supporting time-based aggregation and filtering.
-**Dashboard_Summaries**: High-level KPI view with calculated variances and conditional formatting to highlight outliers.
-**Pivot_Instructions**: Documentation explaining how summary views are derived from the fact table.
-**Pivots**: PivotTables summarizing baseline vs observed performance across dimensions.
+- **Inputs**: Centralized reporting controls (e.g., last closed month) used to standardize analysis views across summaries and PivotTables. *No forecasting logic is applied.*
+- **Fact_Finance_Long**: Clean, long-format fact table containing simulated baseline and observed values, structured for aggregation and BI-style analysis.
+- **Ref_Department**: Categorical dimension used for grouping and roll-ups (included for data-model realism).
+- **Ref_GLAccount**: Category mapping supporting grouped variance analysis.
+- **Ref_Date**: Calendar dimension supporting time-based aggregation and filtering.
+- **Dashboard_Summaries**: High-level KPI view with calculated variances and conditional formatting to highlight outliers.
+- **Pivot_Instructions**: Documentation explaining how summary views are derived from the fact table.
+- **Pivots**: PivotTables summarizing baseline vs observed performance across dimensions.
 
 ---
 

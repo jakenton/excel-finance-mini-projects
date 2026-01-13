@@ -1,5 +1,5 @@
 # Excel Analytics Mini Projects
----
+
 ## Overview
 This repository contains three **Excel-based mini projects** designed to demonstrate core **data analysis skills** commonly required in Data Analyst roles. Each project focuses on a different analytical pattern&mdash;performance comparison, time-aware metrics, and scenario analysis&mdash;using clean data structures, transparent logic, and clear documentation.
 

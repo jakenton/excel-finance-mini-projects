@@ -1,5 +1,5 @@
 # Mini Project 2 &mdash; Rolling Forecast Logic (Excel)
----
+
 ## Overview
 This mini project demonstrates **conditional logic and time-aware analysis** in Excel. The workbook uses IF-based logic to dynamically switch between observed data for completed periods and estimaged values for future periods.
 
@@ -23,11 +23,11 @@ How can time-based metrics update dynamically as new data becomes available, whi
 ---
 
 ## Workbook Structure
-**Inputs**: User-controlled parameters including the last completed period and a simple growth assumption.
-**Forecast_Table**: Core calculation table using IF logic to
-- Lock observed values for completed periods
-- Apply assumptions only to future periods
-**KPI_Summary**: High-level rollups summarizing cumulative observed values and projected totals.
+- **Inputs**: User-controlled parameters including the last completed period and a simple growth assumption.
+- **Forecast_Table**: Core calculation table using IF logic to
+    - Lock observed values for completed periods
+    - Apply assumptions only to future periods
+- **KPI_Summary**: High-level rollups summarizing cumulative observed values and projected totals.
 
 ---
 
