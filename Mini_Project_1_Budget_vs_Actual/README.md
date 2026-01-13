@@ -41,6 +41,7 @@ How does observed performance compare to an expected baseline across categories 
 - Data modeling concepts (fact + dimensions)
 - Conditional formatting for insight discovery
 - Clear documentation of analytical steps
+- Excel lookup logic (`INDEX` / `MATCH`)
 
 ---
 
@@ -48,6 +49,7 @@ How does observed performance compare to an expected baseline across categories 
 - All data is simulated
 - The focus is on **analysis and interpretation**, not automation
 - The workbook prioritizes clarity and explainability
+- Category attributes are joined to the fact table using Excel lookup logic (`INDEX` / `MATCH`) to demonstrate relational data preparation.
 
 ---
 
